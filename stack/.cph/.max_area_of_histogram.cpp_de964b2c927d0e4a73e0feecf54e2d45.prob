@@ -1,0 +1,1 @@
+{"name":"Local: max_area_of_histogram","url":"/Users/harshkathrotiya/Documents/Dsa 2/stack/max_area_of_histogram.cpp","tests":[{"id":1736246761954,"input":"7\n6 2 5 4 5 1 6","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/harshkathrotiya/Documents/Dsa 2/stack/max_area_of_histogram.cpp","group":"local","local":true}
